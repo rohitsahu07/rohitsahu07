@@ -30,8 +30,8 @@ I specialize in **Python**, **Django**, and **cloud-native applications** using 
 
 <p align="center">
   <a href="mailto:rohitsahu70498@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/rohitsahu70](https://www.linkedin.com/in/rohit-sahu-797657206/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/rohitsahu07](https://github.com/rohitsahu07)"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-sahu-797657206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rohitsahu07"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
