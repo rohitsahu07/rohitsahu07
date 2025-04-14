@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitsahu07/rohitsahu07/main/banner.png" alt="Rohit Sahu Banner" style="width:100%; max-width:1000px;" />
+</p>
+
 <h1 align="center">Hi there, I'm Rohit Sahu 👋</h1>
 <h3 align="center">Software Developer | Python Enthusiast | Cloud Explorer</h3>
 
@@ -9,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with 2+ years of experience crafting efficient and scalable solutions.  
-I specialize in **Python**, **Django**, and **cloud-native applications** using **Docker**, **Kubernetes**, and **AWS/Azure**.
+I'm a passionate **Software Developer** with 2+ years of experience building efficient, scalable, and elegant solutions.  
+Specialized in **Python**, **Django**, and modern **cloud-native development** with **Docker**, **Kubernetes**, and **AWS/Azure**.
 
-- 💬 Always curious to learn & build impactful systems  
-- 🌐 Love clean UIs, fast APIs, and strong backend logic  
-- 🔍 Detail-oriented and obsessed with optimization
+- 💬 Always exploring new technologies and creative problem-solving  
+- 🧠 Focused on writing clean code and delivering optimized systems  
+- 📈 Driven by continuous learning and growth
 
 ---
 
