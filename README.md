@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Developer** with 2+ years of experience crafting efficient and scalable solutions.  
+I'm a passionate **Python Developer** with 2+ years of experience crafting efficient and scalable solutions.  
 I specialize in **Python**, **Django**, and **cloud-native applications** using **Docker**, **Kubernetes**, and **AWS/Azure**.
 
 - 💬 Always curious to learn & build impactful systems  
