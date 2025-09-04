@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rohit Sahu 👋</h1>
-<h3 align="center">Software Developer | Python Developer | Cloud Explorer</h3>
+<h3 align="center">Python Developer | Backend Developer | Software Developer | Python Developer | Cloud Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Clean+Code+%7C+Smart+Systems+%7C+Scalable+Solutions" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Python Developer** with 2+ years of experience crafting efficient and scalable solutions.  
+I'm a passionate **Python Developer** with 3 years of experience crafting efficient and scalable solutions.  
 I specialize in **Python**, **Django**, and **cloud-native applications** using **Docker**, **Kubernetes**, and **AWS/Azure**.
 
 - 💬 Always curious to learn & build impactful systems  
